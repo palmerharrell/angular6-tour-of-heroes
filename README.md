@@ -1,5 +1,8 @@
 # Angular6TourOfHeroes
 
+7/9/18
+Following Angular Tutorial: angular.io/tutorial
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
